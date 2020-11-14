@@ -16,3 +16,8 @@ It is particularly useful in managing large sets of tabular data.
 
 A more detailed list of features and their functions can be found at this [link](http://www.star.bris.ac.uk/~mbt/topcat/#features).
 
+# TOPCAT Installation
+  
+  
+   #### For MacOS 
+     For Apple Mac users, the installation file can be downloaded at: 
