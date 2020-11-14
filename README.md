@@ -20,4 +20,7 @@ A more detailed list of features and their functions can be found at this [link]
  
   
    ### For MacOS 
-  > For Apple Mac users, the installation file can be downloaded at: <a href="http://www.star.bris.ac.uk/~mbt/topcat/topcat-full.dmg">MacOS X TOPCAT</a>
+  > For Apple Mac users, the installation file can be downloaded at: <a href="http://www.star.bris.ac.uk/~mbt/topcat/topcat-full.dmg">MacOS X TOPCAT</a> 
+  ### For Non-MacOS 
+  
+ > Unix based systems: 
