@@ -81,7 +81,11 @@ A more detailed list of features and their functions can be found at this [link]
 
 ![SDSS_data_retrieval](topcat4.png)
 
-##### 8. Select the SDSS catalogue with the description "Group of Galaxies in SDSS 5 (Tago+, 2008): 
+##### 8. Select the SDSS catalogue with the description "Group of Galaxies in SDSS 5 (Tago+, 2008):
+
+![Group of Galaxies](topcat6.png)
+
+##### 9. Select the table titled "Group":
 
 ![Group of Galaxies](topcat5.png)
 
