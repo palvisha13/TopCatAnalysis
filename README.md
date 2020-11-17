@@ -27,6 +27,8 @@ It is particularly useful in managing large sets of tabular data.
 
 A more detailed list of features and their functions can be found at this [link](http://www.star.bris.ac.uk/~mbt/topcat/#features).
 
+----
+
 # TOPCAT Installation
  
   
@@ -71,6 +73,10 @@ A more detailed list of features and their functions can be found at this [link]
  -------------------------------
  
  _This information was summarized from the [TOPCAT Documentation](http://www.star.bris.ac.uk/~mbt/topcat/). Visit this site for more information_
+ 
+ 
+ ----
+ 
  # Retrieving data from TOPCAT to analyze in Python
 
 ##### 1. When you first open up TOPCAT, you will see a window that looks like this: 
