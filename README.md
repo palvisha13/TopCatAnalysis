@@ -27,7 +27,8 @@ A more detailed list of features and their functions can be found at this [link]
     
    _App can’t be opened because it is from an unidentified developer_
     
-    1. In this case, move the `.dmg` installation file for TOPCAT from your `Downloads` folder to `Applications` folder. 
+    1. In this case, move the `.dmg` installation file for TOPCAT from your `Downloads` 
+    folder to `Applications` folder. 
    
     2. Open the installation file in the Applications folder. 
    
@@ -54,5 +55,8 @@ A more detailed list of features and their functions can be found at this [link]
      run the command `chmod +x topcat`
   
      run the command `java -jar topcat-*.jar`.
+   
+ -------------------------------
  
+ _This information was summarized from the [TOPCAT Documentation](http://www.star.bris.ac.uk/~mbt/topcat/). Visit this site for more information_
  # Retrieving data from TOPCAT to analyze in Python
