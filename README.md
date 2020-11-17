@@ -70,3 +70,11 @@ Select the "files" tab on the top left.
 We will be working with data from the Sloan Digital Sky survey, so to retrieve the data, select the "VizieR" tab: 
 
 ![vizieR](topcat3.png)
+
+Select "all rows"
+
+Set the maximum row count to 200.
+
+Select "By Keyword" in the "Catalogue Selection".
+
+![SDSS_data_retrieval](topcat4.png)
