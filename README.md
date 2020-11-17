@@ -31,14 +31,14 @@ A more detailed list of features and their functions can be found at this [link]
   
   > **Unix based systems:** 
   
-  >run the command `chmod +x topcat` in the same directory the `.jar` file is downloaded to.
+    run the command `chmod +x topcat` in the same directory the `.jar` file is downloaded to.
   
-  > run the command `topcat`
+    run the command `topcat`
   
   >**Non-Unix systems:**
   
-  > run the command `chmod +x topcat`
+     run the command `chmod +x topcat`
   
-  > run the command `java -jar topcat-*.jar`.
+     run the command `java -jar topcat-*.jar`.
  
  # Retrieving data from TOPCAT to analyze in Python
