@@ -22,16 +22,16 @@ A more detailed list of features and their functions can be found at this [link]
    ### For MacOS 
   > For Apple Mac users, the installation file can be downloaded at: <a href="http://www.star.bris.ac.uk/~mbt/topcat/topcat-full.dmg">MacOS X TOPCAT</a> 
   
-   > **Troubleshooting for MacOS:**
-   > When downloading and installing TOPCAT, you may run into an error that says: 
+   ##### Troubleshooting for MacOS:**
+   When downloading and installing TOPCAT, you may run into an error that says: 
     
-   > _App can’t be opened because it is from an unidentified developer_
+   _App can’t be opened because it is from an unidentified developer_
     
-   > 1. In this case, move the `.dmg` installation file for TOPCAT from your `Downloads` folder to `Applications` folder. 
+    1. In this case, move the `.dmg` installation file for TOPCAT from your `Downloads` folder to `Applications` folder. 
    
-   > 2. Open the installation file in the Applications folder. 
+    2. Open the installation file in the Applications folder. 
    
-   > 3. In the "Applications" folder, find the TOPCAT application, right click on it and select "open". This will override the error.
+    3. In the "Applications" folder, find the TOPCAT application, right click on it and select "open". This will override the error.
   
   
   ### For Non-MacOS 
