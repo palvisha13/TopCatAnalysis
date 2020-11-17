@@ -30,7 +30,8 @@ A more detailed list of features and their functions can be found at this [link]
     1. In this case, move the `.dmg` installation file for TOPCAT from your `Downloads` 
     folder to `Applications` folder. 
    
-    2. Open the installation file in the Applications folder by double clicking on the `.dmg` file. This will unzip a READme and TOPCAT application file into the Applications folder. 
+    2. Open the installation file in the Applications folder by double clicking on the `.dmg` file. This will unzip a READme and TOPCAT 
+    application file into the Applications folder. 
    
     3. In the "Applications" folder, find the TOPCAT application, right click on it and select "open". 
     This will override the error.
