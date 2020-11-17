@@ -29,11 +29,11 @@ A more detailed list of features and their functions can be found at this [link]
   
   > [topcat_lite.jar]()
   
-   **Unix based systems:** 
+   > **Unix based systems:** 
   
-    run the command `chmod +x topcat` in the same directory the `.jar` file is downloaded to.
+     run the command `chmod +x topcat` in the same directory the `.jar` file is downloaded to.
   
-    run the command `topcat`
+     run the command `topcat`
   
    **Non-Unix systems:**
   
