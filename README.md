@@ -62,19 +62,21 @@ A more detailed list of features and their functions can be found at this [link]
  _This information was summarized from the [TOPCAT Documentation](http://www.star.bris.ac.uk/~mbt/topcat/). Visit this site for more information_
  # Retrieving data from TOPCAT to analyze in Python
 
-When you first open up TOPCAT, you will see a window that looks like this: 
+##### 1. When you first open up TOPCAT, you will see a window that looks like this: 
 ![first window](topcat1.png)
 
-Select the "files" tab on the top left.
+##### 2. Select the "files" tab on the top left.
 
-We will be working with data from the Sloan Digital Sky survey, so to retrieve the data, select the "VizieR" tab: 
+##### 3. We will be working with data from the Sloan Digital Sky survey, so to retrieve the data, select the "VizieR" tab: 
 
 ![vizieR](topcat3.png)
 
-Select "all rows"
+##### 4. Select "all rows"
 
-Set the maximum row count to 200.
+##### 5. Set the maximum row count to 200.
 
-Select "By Keyword" in the "Catalogue Selection".
+##### 6. Select "By Keyword" in the "Catalogue Selection".
+
+##### 7. Enter the keyword "SDSS".
 
 ![SDSS_data_retrieval](topcat4.png)
