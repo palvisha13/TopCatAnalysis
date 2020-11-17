@@ -67,8 +67,6 @@ When you first open up TOPCAT, you will see a window that looks like this:
 
 Select the "files" tab on the top left.
 
-To select a table of data through TOPCAT, click on one of the following icons: 
+We will be working with data from the Sloan Digital Sky survey, so to retrieve the data, select the "VizieR" tab: 
 
-![second_window](topcat2.png)
-
-We will be working with data from the Sloan Digital Sky survey, so to 
+![vizieR](topcat3.png)
