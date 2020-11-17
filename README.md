@@ -23,4 +23,22 @@ A more detailed list of features and their functions can be found at this [link]
   > For Apple Mac users, the installation file can be downloaded at: <a href="http://www.star.bris.ac.uk/~mbt/topcat/topcat-full.dmg">MacOS X TOPCAT</a> 
   ### For Non-MacOS 
   
- > Unix based systems: 
+  > Download one of two `.jar` files: 
+  
+  >[topcat_full_.jar]()
+  
+  >[topcat_lite.jar]()
+  
+  > **Unix based systems:** 
+  
+  >> run the command `chmod +x topcat` in the same directory the `.jar` file is downloaded to. 
+  
+  >> run the command `topcat`
+  
+  >**Non-Unix systems:**
+  
+  >> run the command `chmod +x topcat`
+  
+  >> run the command `java -jar topcat-*.jar`.
+ 
+ # Retrieving data from TOPCAT to analyze in Python
