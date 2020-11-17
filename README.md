@@ -89,4 +89,6 @@ A more detailed list of features and their functions can be found at this [link]
 
 ![Group of Galaxies](topcat5.png)
 
-##### 10. Select the "Save" icon from the top. You will see a window like this:
+##### 10. Select the "Save" icon on the top left. You will see a window like this:
+
+![Save data](topcat7.png)
