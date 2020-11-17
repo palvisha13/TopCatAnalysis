@@ -68,4 +68,5 @@ When you first open up TOPCAT, you will see a window that looks like this:
 Select the "files" tab on the top left.
 
 To select a table of data through TOPCAT, click on one of the following icons: 
-![second_window] (topcat2.png)
+
+![second_window](topcat2.png)
