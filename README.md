@@ -25,9 +25,9 @@ A more detailed list of features and their functions can be found at this [link]
   
   > Download one of two `.jar` files: 
   
-   >>[topcat_full_.jar]()
+  > [topcat_full_.jar]()
   
-   >>[topcat_lite.jar]()
+  > [topcat_lite.jar]()
   
    **Unix based systems:** 
   
