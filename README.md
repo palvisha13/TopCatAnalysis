@@ -13,10 +13,10 @@ The information provided below will discuss TOPCAT, the installation process, an
 # Table of Contents: 
 
  1. [What is TOPCAT?](https://github.com/palvisha13/TopCatAnalysis/blob/main/README.md#topcat-analysis)
- 2. [TOPCAT installation for MacOS]() 
- 3. [TOPCAT installation for Non- Mac: Unix based systems]()
- 4. [TOPCAT installation for Non-Unix based systems]()
- 5. [Retrieving the data set neded for this project]()
+ 2. [TOPCAT installation for MacOS](https://github.com/palvisha13/TopCatAnalysis#for-macos) 
+ 3. [TOPCAT installation for Non- Mac: Unix based systems](https://github.com/palvisha13/TopCatAnalysis#unix-based-systems)
+ 4. [TOPCAT installation for Non-Unix based systems](https://github.com/palvisha13/TopCatAnalysis#non-unix-systems)
+ 5. [Retrieving the data set neded for this project](https://github.com/palvisha13/TopCatAnalysis#retrieving-data-from-topcat-to-analyze-in-python)
 
 ------------------
 
