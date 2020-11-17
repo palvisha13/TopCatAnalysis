@@ -65,5 +65,7 @@ A more detailed list of features and their functions can be found at this [link]
 When you first open up TOPCAT, you will see a window that looks like this: 
 ![first window](topcat1.png)
 
-To select a table of data through TOPCAT, click on one of the following icons: 
+Select the "files" tab on the top left.
 
+To select a table of data through TOPCAT, click on one of the following icons: 
+![second_window] (topcat2.png)
