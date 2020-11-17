@@ -7,7 +7,9 @@ _This project was created as content for a course on Data Science at York Univer
 
 "Data cleaning and Analysis using Python and TOPCAT" focuses on data cleaning and the basic analysis of astronomical data accquired through TOPCAT.
 The information provided below will discuss TOPCAT, the installation process, and how to search for data from various astronomical surveys on TOPCAT, as well as retrieving the data for analysis. 
+# Table of Contents: 
 
+ 1. 
 
 # What is TOPCAT?
 
