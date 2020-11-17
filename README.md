@@ -31,7 +31,8 @@ A more detailed list of features and their functions can be found at this [link]
    
     2. Open the installation file in the Applications folder. 
    
-    3. In the "Applications" folder, find the TOPCAT application, right click on it and select "open". This will override the error.
+    3. In the "Applications" folder, find the TOPCAT application, right click on it and select "open". 
+    This will override the error.
   
   
   ### For Non-MacOS 
