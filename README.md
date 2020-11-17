@@ -91,4 +91,11 @@ A more detailed list of features and their functions can be found at this [link]
 
 ##### 10. Select the "Save" icon on the top left. You will see a window like this:
 
+
+
 ![Save data](topcat7.png)
+
+
+##### 11. Change the Output Format to CSV and choose where to save your CSV file using the "File store browser" or "System browser". 
+
+##### 12. Now you're ready to clean the data!
