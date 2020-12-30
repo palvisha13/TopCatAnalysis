@@ -94,7 +94,7 @@ A more detailed list of features and their functions can be found at this [link]
 
 ##### 6. Select "By Keyword" in the "Catalogue Selection".
 
-##### 7. Enter the keyword "SDSS".
+##### 7. Enter the keyword "SDSS 5".
 
 ![SDSS_data_retrieval](topcat4.png)
 
