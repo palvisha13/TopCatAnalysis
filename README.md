@@ -104,7 +104,7 @@ A more detailed list of features and their functions can be found at this [link]
 
 ##### 9. Select the table titled "Galaxies":
 
-![Galaxies](Screen Shot 2021-01-06 at 7.52.25 PM.png)
+![Galaxies](https://github.com/palvisha13/TopCatAnalysis/blob/main/Screen%20Shot%202021-01-06%20at%207.52.25%20PM.png)
 
 ##### 10. Select the "Save" icon on the top left. You will see a window like this:
 
