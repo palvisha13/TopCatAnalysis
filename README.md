@@ -104,13 +104,13 @@ A more detailed list of features and their functions can be found at this [link]
 
 ##### 9. Select the table titled "Galaxies":
 
-![Group of Galaxies](topcat5.png)
+![Galaxies](Screen Shot 2021-01-06 at 7.52.25 PM.png)
 
 ##### 10. Select the "Save" icon on the top left. You will see a window like this:
 
 
 
-![Save data](topcat7.png)
+![Save data](Screen Shot 2021-01-06 at 7.53.08 PM.png)
 
 
 ##### 11. Change the Output Format to CSV and choose where to save your CSV file using the "System Brower". When you rename it, remember to add the extension ".csv". 
