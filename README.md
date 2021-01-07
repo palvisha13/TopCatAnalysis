@@ -102,7 +102,7 @@ A more detailed list of features and their functions can be found at this [link]
 
 ![Group of Galaxies](topcat6.png)
 
-##### 9. Select the table titled "Group":
+##### 9. Select the table titled "Galaxies":
 
 ![Group of Galaxies](topcat5.png)
 
