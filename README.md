@@ -103,15 +103,9 @@ A more detailed list of features and their functions can be found at this [link]
 
 ##### 8.  Select the "Save" icon on the top left. You will see a window like this:
 
-![Galaxies](https://github.com/palvisha13/TopCatAnalysis/blob/main/Screen%20Shot%202021-01-06%20at%207.52.25%20PM.png)
-
-##### 9. Select the "Save" icon on the top left. You will see a window like this:
+![Galaxies](https://github.com/palvisha13/TopCatAnalysis/blob/main/Screen%20Shot%202021-01-11%20at%202.29.47%20AM.png)
 
 
+##### 9. Change the Output Format to csv and choose where to save your csv file using the "System Brower". When you rename it, remember to add the extension ".csv". 
 
-![Save data](https://github.com/palvisha13/TopCatAnalysis/blob/main/Screen%20Shot%202021-01-06%20at%207.53.08%20PM.png)
-
-
-##### 11. Change the Output Format to CSV and choose where to save your CSV file using the "System Brower". When you rename it, remember to add the extension ".csv". 
-
-##### 12. Now you're ready to clean the data!
+##### 12. Now you're ready to clean and analyze the data!
