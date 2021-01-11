@@ -86,26 +86,26 @@ A more detailed list of features and their functions can be found at this [link]
 
 ##### 3. We will be working with images from the Galex mission, so click on the image cone in the center: 
 
-![vizieR](topcat3.png)
+![vizieR](https://github.com/palvisha13/TopCatAnalysis/blob/main/Screen%20Shot%202021-01-11%20at%201.48.50%20AM.png)
 
 ##### 4. Select the registry "http://vao.stsci.edu/RegTAP/TapService.aspx"
 
 ##### 5. Enter the keyword "galaxies"
 
 ##### 6. Set the RA = 00 degrees and DEC = 20 degrees, with an angular size of 3 degrees.
-##### 7. Enter the keyword "SDSS 5".
+
 
 ![data retreival](https://github.com/palvisha13/TopCatAnalysis/blob/main/Screen%20Shot%202021-01-11%20at%202.04.38%20AM.png)
 
-##### 8. Select the data set from the list that pops up:
+##### 7. Select the data set from the list that pops up:
 
 ![Group of Galaxies](topcat6.png)
 
-##### 9.  Select the "Save" icon on the top left. You will see a window like this:
+##### 8.  Select the "Save" icon on the top left. You will see a window like this:
 
 ![Galaxies](https://github.com/palvisha13/TopCatAnalysis/blob/main/Screen%20Shot%202021-01-06%20at%207.52.25%20PM.png)
 
-##### 10. Select the "Save" icon on the top left. You will see a window like this:
+##### 9. Select the "Save" icon on the top left. You will see a window like this:
 
 
 
