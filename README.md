@@ -88,21 +88,20 @@ A more detailed list of features and their functions can be found at this [link]
 
 ![vizieR](topcat3.png)
 
-##### 4. Select "all rows"
+##### 4. Select the registry "http://vao.stsci.edu/RegTAP/TapService.aspx"
 
-##### 5. Set the maximum row count to 200.
+##### 5. Enter the keyword "galaxies"
 
-##### 6. Select "By Keyword" in the "Catalogue Selection".
-
+##### 6. Set the RA = 359.85625 degrees and DEC = 20.749861100000004 degrees, with an angular size of 2 degrees.
 ##### 7. Enter the keyword "SDSS 5".
 
-![SDSS_data_retrieval](topcat4.png)
+![data retreival](https://github.com/palvisha13/TopCatAnalysis/blob/main/Screen%20Shot%202021-01-11%20at%202.04.38%20AM.png)
 
-##### 8. Select the SDSS catalogue with the description "Group of Galaxies in SDSS 5 (Tago+, 2008):
+##### 8. Select the data set from the list that pops up:
 
 ![Group of Galaxies](topcat6.png)
 
-##### 9. Select the table titled "Galaxies":
+##### 9.  Select the "Save" icon on the top left. You will see a window like this:
 
 ![Galaxies](https://github.com/palvisha13/TopCatAnalysis/blob/main/Screen%20Shot%202021-01-06%20at%207.52.25%20PM.png)
 
