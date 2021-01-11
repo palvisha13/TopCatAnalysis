@@ -99,7 +99,7 @@ A more detailed list of features and their functions can be found at this [link]
 
 ##### 7. Select the data set from the list that pops up:
 
-![Group of Galaxies](topcat6.png)
+![Group of Galaxies](https://github.com/palvisha13/TopCatAnalysis/blob/main/Screen%20Shot%202021-01-11%20at%202.05.20%20AM.pngg)
 
 ##### 8.  Select the "Save" icon on the top left. You will see a window like this:
 
