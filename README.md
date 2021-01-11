@@ -84,7 +84,7 @@ A more detailed list of features and their functions can be found at this [link]
 
 ##### 2. Select the "files" tab on the top left.
 
-##### 3. We will be working with data from the Sloan Digital Sky survey, so to retrieve the data, select the "VizieR" tab: 
+##### 3. We will be working with images from the Galex mission, so click on the image cone in the center: 
 
 ![vizieR](topcat3.png)
 
