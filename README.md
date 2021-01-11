@@ -92,7 +92,7 @@ A more detailed list of features and their functions can be found at this [link]
 
 ##### 5. Enter the keyword "galaxies"
 
-##### 6. Set the RA = 00 degrees and DEC = 20.749861100000004 degrees, with an angular size of 3 degrees.
+##### 6. Set the RA = 00 degrees and DEC = 20 degrees, with an angular size of 3 degrees.
 ##### 7. Enter the keyword "SDSS 5".
 
 ![data retreival](https://github.com/palvisha13/TopCatAnalysis/blob/main/Screen%20Shot%202021-01-11%20at%202.04.38%20AM.png)
