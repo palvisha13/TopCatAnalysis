@@ -79,7 +79,7 @@ A more detailed list of features and their functions can be found at this [link]
  
  # Retrieving data from TOPCAT to analyze in Python
 
-##### 1. When you first open up TOPCAT, you will see a window that looks like so: 
+##### 1. When you first open up TOPCAT, you will see a window that looks like this: 
 ![first window](topcat1.png)
 
 ##### 2. Select the "files" tab on the top left.
